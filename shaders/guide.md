@@ -27,5 +27,5 @@ Placeholder — common issues and how to resolve them.
 ## Related
 
 - [Shaders overview](overview.md)
-- [Visuals: Shaders](../visuals/shaders.md)
+- [Visuals overview](../visuals/overview.md)
 - [Setups: Beautiful](../setups/beautiful.md)

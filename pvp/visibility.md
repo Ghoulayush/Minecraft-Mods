@@ -15,5 +15,5 @@ Placeholder content for future visibility recommendations.
 ## Related
 
 - [PvP overview](overview.md)
-- [Resource Packs](resource-packs.md)
+- [Resource packs: PvP](../resource-packs/pvp.md)
 - [Performance: FPS](../performance/fps.md)

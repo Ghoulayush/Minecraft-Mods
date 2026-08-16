@@ -16,6 +16,6 @@ This page is a placeholder. Real shader content will be added later by the repos
 
 ## Related
 
-- [Visuals: Shaders](../visuals/shaders.md)
+- [Visuals overview](../visuals/overview.md)
 - [Resource packs: Realistic](../resource-packs/realistic.md)
 - [Setups: Beautiful](../setups/beautiful.md)

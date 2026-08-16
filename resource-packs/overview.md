@@ -21,4 +21,4 @@ This page is a placeholder. Real resource pack content will be added later by th
 ## Related
 
 - [Visuals overview](../visuals/overview.md)
-- [PvP: Resource Packs](../pvp/resource-packs.md)
+- [PvP overview](../pvp/overview.md)

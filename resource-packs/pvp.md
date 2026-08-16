@@ -15,5 +15,5 @@ Placeholder content for future PvP resource pack recommendations.
 ## Related
 
 - [Resource packs overview](overview.md)
-- [PvP: Resource Packs](../pvp/resource-packs.md)
+- [PvP overview](../pvp/overview.md)
 - [Setups: Competitive](../setups/competitive.md)

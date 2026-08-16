@@ -30,7 +30,6 @@
 * [Graphics](visuals/graphics.md)
 * [Animations](visuals/animations.md)
 * [Lighting](visuals/lighting.md)
-* [Shaders](visuals/shaders.md)
 
 ## PvP
 
@@ -38,7 +37,6 @@
 * [Combat](pvp/combat.md)
 * [HUD](pvp/hud.md)
 * [Visibility](pvp/visibility.md)
-* [Resource Packs](pvp/resource-packs.md)
 
 ## Resource Packs
 

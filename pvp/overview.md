@@ -16,9 +16,9 @@ This page is a placeholder. Real PvP content will be added later by the reposito
 - [Combat](combat.md)
 - [HUD](hud.md)
 - [Visibility](visibility.md)
-- [Resource Packs](resource-packs.md)
 
 ## Related
 
 - [Resource packs overview](../resource-packs/overview.md)
+- [Resource packs: PvP](../resource-packs/pvp.md)
 - [Setups: Competitive](../setups/competitive.md)

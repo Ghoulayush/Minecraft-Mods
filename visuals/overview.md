@@ -9,14 +9,12 @@ This page is a placeholder. Real visual content will be added later by the repos
 - Placeholder — graphics and rendering improvements.
 - Placeholder — animations.
 - Placeholder — lighting.
-- Placeholder — shader setups.
 
 ## Browse
 
 - [Graphics](graphics.md)
 - [Animations](animations.md)
 - [Lighting](lighting.md)
-- [Shaders](shaders.md)
 
 ## Related
 
