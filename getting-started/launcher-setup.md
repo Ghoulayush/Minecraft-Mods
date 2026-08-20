@@ -1,4 +1,4 @@
-# Launcher Setup
+# Launcher setup
 
 > Every Minecraft setup starts with a launcher. This page covers the most popular options and walks through setting up Prism Launcher — the launcher used throughout this guide.
 
@@ -8,14 +8,7 @@ There are multiple launchers and clients available for Minecraft. The official M
 
 Here are the most popular options.
 
-| Launcher | Free | Open Source | Built-in Mods | CurseForge + Modrinth |
-|----------|------|-------------|---------------|----------------------|
-| Lunar Client | Yes | No | Yes | Yes |
-| Dawn Client | Yes | No | Yes | Yes |
-| Modrinth Launcher | Yes | Yes | No | Modrinth only |
-| Prism Launcher | Yes | Yes | No | Via add-ons |
-
----
+***
 
 ### Lunar Client
 
@@ -23,13 +16,13 @@ An all-in-one client popular among competitive players and content creators.
 
 **Key features:**
 
-- Built-in performance and cosmetic mods
-- Integrated mod and resource pack browser
-- Supports both Modrinth and CurseForge
-- Solid out-of-the-box performance
-- Used by content creators such as Flowtives, Swight, and ImMixed
+* Built-in performance and cosmetic mods
+* Integrated mod and resource pack browser
+* Supports both Modrinth and CurseForge
+* Solid out-of-the-box performance
+* Used by content creators such as Flowtives, Swight, and ImMixed
 
----
+***
 
 ### Dawn Client
 
@@ -37,15 +30,15 @@ An all-in-one client formerly known as Feather Client, with an integrated mod ec
 
 **Key features:**
 
-- Built-in mod and resource pack downloader
-- Supports both Modrinth and CurseForge
-- Used by content creators such as Dolphin (dol9hin) and Tai_
+* Built-in mod and resource pack downloader
+* Supports both Modrinth and CurseForge
+* Used by content creators such as Dolphin (dol9hin) and Tai\_
 
 {% hint style="info" %}
 **Note:** Some recent reviews suggest that Dawn Client's performance may have declined since the rebrand. The client is still under active development and these issues may improve over time.
 {% endhint %}
 
----
+***
 
 ### Modrinth Launcher
 
@@ -53,12 +46,12 @@ A clean, minimal launcher from the Modrinth team with tight ecosystem integratio
 
 **Key features:**
 
-- Lightweight and fast
-- Tight integration with Modrinth
-- Straightforward instance management
-- Open source
+* Lightweight and fast
+* Tight integration with Modrinth
+* Straightforward instance management
+* Open source
 
----
+***
 
 ### Prism Launcher
 
@@ -66,13 +59,13 @@ A free and open-source launcher with an intuitive interface. **This is the launc
 
 **Key features:**
 
-- Free and fully open source
-- Easy instance creation and management
-- Beginner-friendly interface
-- Supports multiple Minecraft versions side by side
-- Works on Windows, macOS, and Linux
+* Free and fully open source
+* Easy instance creation and management
+* Beginner-friendly interface
+* Supports multiple Minecraft versions side by side
+* Works on Windows, macOS, and Linux
 
----
+***
 
 ## Prism Launcher setup
 
@@ -84,12 +77,12 @@ A free and open-source launcher with an intuitive interface. **This is the launc
 
 1. Go to the [Prism Launcher website](https://prismlauncher.org/)
 2. Download the installer for your operating system:
-   - **Windows** — `.msi` or `.exe` installer
-   - **macOS** — `.dmg` disk image
-   - **Linux** — Flatpak, AppImage, or package manager
+   * **Windows** — `.msi` or `.exe` installer
+   * **macOS** — `.dmg` disk image
+   * **Linux** — Flatpak, AppImage, or package manager
 3. Run the installer and follow the prompts
 
-![Download options](image.png)
+![Download options](../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 **Tip:** A command-line installer is also available — scroll down the download page to find it.
@@ -105,14 +98,14 @@ A free and open-source launcher with an intuitive interface. **This is the launc
 
 After signing in you should see the main launcher window. It will appear empty since no instances have been created yet.
 
-![Launcher window after sign-in](image-1.png)
+![Launcher window after sign-in](../.gitbook/assets/image-1.png)
 
 ### 4. Create an instance
 
 1. Click the **Add Instance** button
 2. A configuration window will appear where you choose your Minecraft version and mod loader
 
-![Add Instance window](image-2.png)
+![Add Instance window](../.gitbook/assets/image-2.png)
 
 ### 5. Select version and mod loader
 
@@ -132,9 +125,9 @@ After signing in you should see the main launcher window. It will appear empty s
 
 Once complete, you will see the new instance in your launcher — ready to play.
 
-![Instance ready to launch](image-3.png)
+![Instance ready to launch](../.gitbook/assets/image-3.png)
 
----
+***
 
 ## What's next?
 
