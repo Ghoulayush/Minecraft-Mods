@@ -5,6 +5,7 @@
 ## Getting Started
 
 * [Introduction](getting-started/introduction.md)
+* [Launcher setup](getting-started/launcher-setup.md)
 * [How to use this guide](getting-started/how-to-use-this-guide.md)
 
 ## Performance
