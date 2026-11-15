@@ -4,9 +4,9 @@
 
 ## What this page covers
 
-- Placeholder — clearer view of entities and surroundings.
-- Placeholder — reducing visual clutter.
-- Placeholder — competitive visibility trade-offs.
+* Placeholder—clearer view of entities and surroundings.
+* Placeholder—reducing visual clutter.
+* Placeholder—competitive visibility trade-offs.
 
 ## Placeholder
 
@@ -14,6 +14,6 @@ Placeholder content for future visibility recommendations.
 
 ## Related
 
-- [PvP overview](overview.md)
-- [Resource packs: PvP](../resource-packs/pvp.md)
-- [Performance: FPS](../performance/fps.md)
+* [PvP overview](overview.md)
+* [Resource packs: PvP](../resource-packs/pvp.md)
+* [Performance: FPS](../performance/fps.md)

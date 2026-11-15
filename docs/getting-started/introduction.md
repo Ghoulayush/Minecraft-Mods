@@ -6,15 +6,15 @@ This guide is a curated knowledge base for making Minecraft faster, better-looki
 
 ## What you will find here
 
-- Placeholder — performance-focused modifications.
-- Placeholder — atmosphere and immersion improvements.
-- Placeholder — visual upgrades and shaders.
-- Placeholder — PvP-oriented changes.
-- Placeholder — curated setups combining the above.
+* Placeholder—performance-focused modifications.
+* Placeholder—atmosphere and immersion improvements.
+* Placeholder—visual upgrades and shaders.
+* Placeholder—PvP-oriented changes.
+* Placeholder—curated setups combining the above.
 
 ## How the guide is organized
 
-Placeholder — describe how category pages, individual entries, setups, and comparisons relate to one another.
+Placeholder—describe how category pages, individual entries, setups, and comparisons relate to one another.
 
 ## Placeholder notice
 
@@ -22,6 +22,6 @@ Placeholder — describe how category pages, individual entries, setups, and com
 
 ## Next steps
 
-- [How to use this guide](how-to-use-this-guide.md)
-- [Browse performance](../performance/overview.md)
-- [Browse setups](../setups/overview.md)
+* [How to use this guide](how-to-use-this-guide.md)
+* [Browse performance](../performance/overview.md)
+* [Browse setups](../setups/overview.md)

@@ -2,20 +2,20 @@
 
 > A curated knowledge base for making Minecraft faster, better-looking, more immersive, and better suited for PvP.
 
-**Placeholder notice:** This site currently contains only placeholder content. No real Minecraft mods, resource packs, shaders, setups, screenshots, or download links are included yet. The structure, navigation, and templates are ready to be populated with real content by the repository owner.
+**Placeholder notice:** This site contains only placeholder content. No real Minecraft mods, resource packs, shaders, setups, screenshots, or download links are included yet. The structure, navigation, and templates are ready to be populated with real content by the repository owner.
 
 ## What this guide covers
 
 This guide is organized around the goals most Minecraft players care about:
 
-* **Performance** — making the game run faster and smoother on more hardware.
-* **Atmosphere** — ambient sound, weather, particles, and small immersive touches.
-* **Visuals** — graphics, animations, lighting, and shader setups.
-* **PvP** — combat, HUD, visibility, and competitive-oriented changes.
-* **Resource packs** — textures that change how the game looks.
-* **Shaders** — lighting and rendering overhauls.
-* **Setups** — curated combinations of the above for a specific goal.
-* **Comparisons** — side-by-side looks at similar options.
+* **Performance**—making the game run faster and smoother on more hardware.
+* **Atmosphere**—ambient sound, weather, particles, and small immersive touches.
+* **Visuals**—graphics, animations, lighting, and shader setups.
+* **PvP**—combat, HUD, visibility, and competitive-oriented changes.
+* **Resource packs**—textures that change how the game looks.
+* **Shaders**—lighting and rendering overhauls.
+* **Setups**—curated combinations of the above for a specific goal.
+* **Comparisons**—side-by-side looks at similar options.
 
 ## Browse by goal
 
@@ -32,17 +32,17 @@ This guide is organized around the goals most Minecraft players care about:
 
 Placeholder section for future curated setups.
 
-### Setup Placeholder
+### Setup placeholder
 
 Short description placeholder.
 
-> [More information](setups/overview.md)
+> [Setup overview](setups/overview.md)
 
-### Setup Placeholder
+### Setup placeholder
 
 Short description placeholder.
 
-> [More information](setups/overview.md)
+> [Setup overview](setups/overview.md)
 
 ## Getting started
 

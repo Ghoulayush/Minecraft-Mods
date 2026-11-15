@@ -6,7 +6,7 @@
 
 There are multiple launchers and clients available for Minecraft. The official Minecraft launcher works but is widely considered unreliable for modded play.
 
-Here are the most popular options.
+Here are the most popular options:
 
 ***
 
@@ -55,7 +55,7 @@ A clean, minimal launcher from the Modrinth team with tight ecosystem integratio
 
 ### Prism Launcher
 
-A free and open-source launcher with an intuitive interface. **This is the launcher used throughout this guide.**
+A free and open source launcher with an intuitive interface. **This is the launcher used throughout this guide.**
 
 **Key features:**
 
@@ -123,7 +123,7 @@ After signing in you should see the main launcher window. It will appear empty s
 2. Prism Launcher will fetch the Minecraft assets, Fabric loader, and any required files
 3. Wait a few minutes for the download to finish
 
-Once complete, you will see the new instance in your launcher — ready to play.
+Once complete, you will see the new instance in your launcher—ready to play.
 
 ![Instance ready to launch](../.gitbook/assets/image-3.png)
 

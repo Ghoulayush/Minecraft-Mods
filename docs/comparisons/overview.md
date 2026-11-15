@@ -6,10 +6,10 @@ This page is a placeholder. Real comparison content will be added later by the r
 
 ## What this section covers
 
-* Placeholder — comparisons between similar performance options.
-* Placeholder — comparisons between similar visual options.
-* Placeholder — comparisons between similar PvP options.
-* Placeholder — setup comparisons for different goals.
+* Placeholder—comparisons between similar performance options.
+* Placeholder—comparisons between similar visual options.
+* Placeholder—comparisons between similar PvP options.
+* Placeholder—setup comparisons for different goals.
 
 ## Adding comparisons
 

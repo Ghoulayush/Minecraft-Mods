@@ -1,6 +1,10 @@
-# FPS
+---
+description: >-
+  This section of the guide will cover all the generic performance mods that can
+  give a boost of frame rates in Minecraft.
+---
 
-> NOTE This section of the guide will cover all the generic performance mods that can give a boost of frame rates in Minecraft.
+# FPS
 
 > TIP Most of the mods listed here are Fabric mods. Download the `.jar` file from Modrinth and drop it into your `mods` folder. Make sure you have Fabric Loader installed before adding these mods.
 
