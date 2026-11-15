@@ -10,11 +10,7 @@
 
 ## Performance
 
-* [Overview](performance/overview.md)
 * [FPS](performance/fps.md)
-* [Low-End PCs](performance/low-end-pc.md)
-* [Rendering](performance/rendering.md)
-* [Memory](performance/memory.md)
 
 ## Atmosphere
 
