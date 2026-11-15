@@ -82,7 +82,7 @@ A free and open-source launcher with an intuitive interface. **This is the launc
    * **Linux** — Flatpak, AppImage, or package manager
 3. Run the installer and follow the prompts
 
-![Download options](../.gitbook/assets/image.png)
+![Download options](image.png)
 
 {% hint style="info" %}
 **Tip:** A command-line installer is also available — scroll down the download page to find it.
@@ -98,14 +98,14 @@ A free and open-source launcher with an intuitive interface. **This is the launc
 
 After signing in you should see the main launcher window. It will appear empty since no instances have been created yet.
 
-![Launcher window after sign-in](../.gitbook/assets/image-1.png)
+![Launcher window after sign-in](image-1.png)
 
 ### 4. Create an instance
 
 1. Click the **Add Instance** button
 2. A configuration window will appear where you choose your Minecraft version and mod loader
 
-![Add Instance window](../.gitbook/assets/image-2.png)
+![Add Instance window](image-2.png)
 
 ### 5. Select version and mod loader
 
@@ -125,10 +125,10 @@ After signing in you should see the main launcher window. It will appear empty s
 
 Once complete, you will see the new instance in your launcher — ready to play.
 
-![Instance ready to launch](../.gitbook/assets/image-3.png)
+![Instance ready to launch](image-3.png)
 
 ***
 
 ## What's next?
 
-Your launcher is ready. Head to the [Performance](../performance/overview.md) section to start modding, or browse [Setups](../setups/overview.md) for curated mod combinations.
+Your launcher is ready. Head to the [Performance](../performance/fps.md) section to start modding, or browse [Setups](../setups/setups.md) for curated mod combinations.
