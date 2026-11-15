@@ -1,0 +1,135 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Minecraft Setup Guide
+  structure:
+    - type: section
+      key: section-getting-started
+      title: Getting Started
+      path: getting-started
+      default: true
+      children:
+        - type: space
+          key: space-getting-started
+          title: Getting Started
+          path: getting-started
+          default: true
+          content:
+            directory: ./getting-started
+
+    - type: section
+      key: section-performance
+      title: Performance
+      path: performance
+      children:
+        - type: space
+          key: space-performance
+          title: Performance
+          path: performance
+          default: true
+          content:
+            directory: ./performance
+
+    - type: section
+      key: section-atmosphere
+      title: Atmosphere
+      path: atmosphere
+      children:
+        - type: space
+          key: space-atmosphere
+          title: Atmosphere
+          path: atmosphere
+          default: true
+          content:
+            directory: ./atmosphere
+
+    - type: section
+      key: section-visuals
+      title: Visuals
+      path: visuals
+      children:
+        - type: space
+          key: space-visuals
+          title: Visuals
+          path: visuals
+          default: true
+          content:
+            directory: ./visuals
+
+    - type: section
+      key: section-pvp
+      title: PvP
+      path: pvp
+      children:
+        - type: space
+          key: space-pvp
+          title: PvP
+          path: pvp
+          default: true
+          content:
+            directory: ./pvp
+
+    - type: section
+      key: section-resource-packs
+      title: Resource Packs
+      path: resource-packs
+      children:
+        - type: space
+          key: space-resource-packs
+          title: Resource Packs
+          path: resource-packs
+          default: true
+          content:
+            directory: ./resource-packs
+
+    - type: section
+      key: section-shaders
+      title: Shaders
+      path: shaders
+      children:
+        - type: space
+          key: space-shaders
+          title: Shaders
+          path: shaders
+          default: true
+          content:
+            directory: ./shaders
+
+    - type: section
+      key: section-setups
+      title: Setups
+      path: setups
+      children:
+        - type: space
+          key: space-setups
+          title: Setups
+          path: setups
+          default: true
+          content:
+            directory: ./setups
+
+    - type: section
+      key: section-comparisons
+      title: Comparisons
+      path: comparisons
+      children:
+        - type: space
+          key: space-comparisons
+          title: Comparisons
+          path: comparisons
+          default: true
+          content:
+            directory: ./comparisons
+
+    - type: section
+      key: section-about
+      title: About
+      path: about
+      children:
+        - type: space
+          key: space-about
+          title: About
+          path: about
+          default: true
+          content:
+            directory: ./about
