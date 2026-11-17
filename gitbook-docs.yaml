@@ -119,6 +119,8 @@ site:
       key: section-comparisons
       title: Comparisons
       path: comparisons
+      description: ""
+      icon: "9"
       children:
         - type: space
           key: space-comparisons
