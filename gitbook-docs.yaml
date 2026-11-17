@@ -34,7 +34,6 @@ site:
       title: Atmosphere
       path: atmosphere
       description: ""
-      icon: "3"
       children:
         - type: space
           key: space-atmosphere
@@ -48,7 +47,6 @@ site:
       title: Visuals
       path: visuals
       description: ""
-      icon: "4"
       children:
         - type: space
           key: space-visuals
