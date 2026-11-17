@@ -10,13 +10,11 @@
 * Acts as a lightweight alternative to heavy shader setups, providing glowing light sources, atmospheric lamp tints, and enhanced block outlines.
 * Highly customizable post-processing settings that let you toggle bloom intensity, outline sharpness, and lighting hues.
 
-![](.gitbook/assets/lumalight-cherry-grove.jpg)
+![](lumalight-cherry-grove.jpg)
 
-![](.gitbook/assets/lumalight-taiga-night.jpg)
+![](lumalight-taiga-night.jpg)
 
-![](.gitbook/assets/lumalight-lush-caves.jpg)
-
-![](.gitbook/assets/lumalight-the-end.jpg)
+![](lumalight-the-end.jpg)
 
 > NOTE The above pictures are from Modrinth showcasing cel-shaded outlines, colored lighting, and bloom in various biomes and dimensions.
 

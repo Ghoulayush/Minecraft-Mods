@@ -20,17 +20,17 @@ Download : ![Modrinth](https://modrinth.com/favicon.ico) [Particular Reforged](h
 * Adds realistic dust clouds when sprinting, jumping, landing from heights, or riding mounts.
 * Displays sparks around campfires and burning entities, leaves floating from tree canopies, and sticky slime trails behind moving slimes.
 
-![](.gitbook/assets/subtle-effects-campfire-sparks.jpg)
+![](subtle-effects-campfire-sparks.jpg)
 
-![](.gitbook/assets/subtle-effects-sprint-dust.jpg)
+![](subtle-effects-sprint-dust.jpg)
 
-![](.gitbook/assets/subtle-effects-sleeping-villager.jpg)
+![](subtle-effects-sleeping-villager.jpg)
 
-![](.gitbook/assets/subtle-effects-glowstone-dust.jpg)
+![](subtle-effects-glowstone-dust.jpg)
 
-![](.gitbook/assets/subtle-effects-beacon-particles.jpg)
+![](subtle-effects-beacon-particles.jpg)
 
-![](.gitbook/assets/subtle-effects-slime-trail.jpg)
+![](subtle-effects-slime-trail.jpg)
 
 ![](.gitbook/assets/subtle-effects-waterfall-mist.jpg)
 
@@ -49,17 +49,17 @@ Download : ![Modrinth](https://modrinth.com/favicon.ico) [Subtle Effects](https:
 * Displays underwater air bubbles escaping when opening submerged storage chests or barrels.
 * Creates trailing water droplets when emerging from bodies of water, spark particles from active furnaces, and air slipstream trails when gliding with Elytra.
 
-![](.gitbook/assets/effectual-fire-sparks.jpg)
+![](effectual-fire-sparks.jpg)
 
-![](.gitbook/assets/effectual-torch-sparks.jpg)
+![](effectual-torch-sparks.jpg)
 
-![](.gitbook/assets/effectual-lantern-sparks.jpg)
+![](effectual-lantern-sparks.jpg)
 
-![](.gitbook/assets/effectual-minecart-rail-sparks.jpg)
+![](effectual-minecart-rail-sparks.jpg)
 
-![](.gitbook/assets/effectual-burning-mob-sparks.jpg)
+![](effectual-burning-mob-sparks.jpg)
 
-![](.gitbook/assets/effectual-anvil-sparks.jpg)
+![](effectual-anvil-sparks.jpg)
 
 > NOTE The above pictures are from Modrinth showcasing light source sparks, block friction effects, and fiery ember particles from Effectual.
 

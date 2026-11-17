@@ -10,9 +10,9 @@
 * Wakes dynamically adapt to entity movement velocity and match the local water biome color.
 * Built-in compatibility with major shader packs (such as Complementary and BSL) so waves correctly match custom water surface heights and lighting.
 
-![](.gitbook/assets/wakes-boat.jpg)
+![](wakes-boat.jpg)
 
-![](.gitbook/assets/wakes-swimming.jpg)
+![](wakes-swimming.jpg)
 
 > NOTE The above pictures are from Modrinth showcasing boat wave trails, foam spray, and swimming ripples from Wakes Reforged.
 
