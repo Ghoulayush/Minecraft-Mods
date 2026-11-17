@@ -21,6 +21,8 @@ site:
       key: section-performance
       title: Performance
       path: performance
+      description: ""
+      icon: "2"
       children:
         - type: space
           key: space-performance
@@ -33,6 +35,8 @@ site:
       key: section-atmosphere
       title: Atmosphere
       path: atmosphere
+      description: ""
+      icon: "3"
       children:
         - type: space
           key: space-atmosphere
@@ -45,6 +49,8 @@ site:
       key: section-visuals
       title: Visuals
       path: visuals
+      description: ""
+      icon: "4"
       children:
         - type: space
           key: space-visuals
