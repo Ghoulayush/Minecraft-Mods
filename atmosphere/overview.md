@@ -1,25 +1,23 @@
 # Atmosphere
 
-> Placeholder introduction explaining that this section will contain ambient and immersion-focused Minecraft modifications.
-
-This page is a placeholder. Real atmosphere content will be added later by the repository owner.
+Atmospheric mods focus on environmental immersion, weather overhauls, sky rendering, and ambient particle effects that make Minecraft's world feel dynamic, living, and cohesive.
 
 ## What this section covers
 
-- Placeholder — ambient environmental changes.
-- Placeholder — sound improvements.
-- Placeholder — footsteps and movement feedback.
-- Placeholder — weather and particles.
+- **Ambient & Fog:** Horizon changes, underground cave fog, and biome-specific environmental moods.
+- **Weather & Skies:** Particle-based rain, wind physics, localized cloud formations, and volumetric clouds.
+- **Particles:** Natural environmental motes, falling leaves, waterfall mist, fireflies, and breath vapor.
 
 ## Browse
 
-- [Ambient](ambient.md)
-- [Sounds](sounds.md)
-- [Footsteps](footsteps.md)
-- [Weather](weather.md)
-- [Particles](particles.md)
+- [Ambient](ambient.md) — Fog overhauls and biome-specific horizon effects.
+- [Weather](weather.md) — Particle rain, storms, and volumetric cloud mods.
+- [Particles](particles.md) — Ambient world particle enhancements.
+- [Sounds](sounds.md) — Audio and soundscape improvements.
+- [Footsteps](footsteps.md) — Footstep acoustics and dynamic terrain sound feedback.
 
 ## Related
 
 - [Visuals overview](../visuals/overview.md)
+- [Shaders overview](../shaders/overview.md)
 - [Setups: Immersive](../setups/immersive.md)

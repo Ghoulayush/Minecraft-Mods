@@ -1,20 +1,18 @@
 # Visuals
 
-> Placeholder introduction explaining that this section will contain visual and "make Minecraft look good" modifications.
-
-This page is a placeholder. Real visual content will be added later by the repository owner.
+Visual mods elevate the graphical fidelity, animations, particle interactions, and lighting mechanics in Minecraft without breaking the game's core visual identity.
 
 ## What this section covers
 
-- Placeholder — graphics and rendering improvements.
-- Placeholder — animations.
-- Placeholder — lighting.
+- **Graphics & Effects:** Dynamic water wakes, 3D explosion overhauls, gameplay particle feedback, and inventory cosmetics.
+- **Animations:** First-person kinetic animations, third-person movement systems, dynamic cameras, and pet interactions.
+- **Lighting:** Stylized colored illumination, bloom, cel-shading, and post-processing aesthetics without requiring heavy shaders.
 
 ## Browse
 
-- [Graphics](graphics.md)
-- [Animations](animations.md)
-- [Lighting](lighting.md)
+- [Graphics](graphics.md) — Fluid wakes, explosion overhauls, and interaction effects.
+- [Animations](animations.md) — First-person and third-person animation suites.
+- [Lighting](lighting.md) — Colored lighting, bloom, and stylized visuals.
 
 ## Related
 
