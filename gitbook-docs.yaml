@@ -7,7 +7,6 @@ site:
       title: Getting Started
       path: getting-started
       description: ""
-      icon: "1"
       default: true
       children:
         - type: space
@@ -22,7 +21,6 @@ site:
       title: Performance
       path: performance
       description: ""
-      icon: "2"
       children:
         - type: space
           key: space-performance
@@ -36,7 +34,6 @@ site:
       title: Atmosphere
       path: atmosphere
       description: ""
-      icon: "3"
       children:
         - type: space
           key: space-atmosphere
@@ -50,7 +47,6 @@ site:
       title: Visuals
       path: visuals
       description: ""
-      icon: "4"
       children:
         - type: space
           key: space-visuals
@@ -64,7 +60,6 @@ site:
       title: PvP
       path: pvp
       description: ""
-      icon: "5"
       children:
         - type: space
           key: space-pvp
@@ -78,7 +73,6 @@ site:
       title: Resource Packs
       path: resource-packs
       description: ""
-      icon: "6"
       children:
         - type: space
           key: space-resource-packs
@@ -92,7 +86,6 @@ site:
       title: Shaders
       path: shaders
       description: ""
-      icon: "7"
       children:
         - type: space
           key: space-shaders
@@ -106,7 +99,6 @@ site:
       title: Setups
       path: setups
       description: ""
-      icon: "8"
       children:
         - type: space
           key: space-setups
@@ -120,7 +112,6 @@ site:
       title: Comparisons
       path: comparisons
       description: ""
-      icon: "9"
       children:
         - type: space
           key: space-comparisons
