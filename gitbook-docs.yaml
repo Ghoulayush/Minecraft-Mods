@@ -60,7 +60,6 @@ site:
       title: PvP
       path: pvp
       description: ""
-      icon: "5"
       children:
         - type: space
           key: space-pvp
@@ -74,7 +73,6 @@ site:
       title: Resource Packs
       path: resource-packs
       description: ""
-      icon: "6"
       children:
         - type: space
           key: space-resource-packs
@@ -88,7 +86,6 @@ site:
       title: Shaders
       path: shaders
       description: ""
-      icon: "7"
       children:
         - type: space
           key: space-shaders
@@ -102,7 +99,6 @@ site:
       title: Setups
       path: setups
       description: ""
-      icon: "8"
       children:
         - type: space
           key: space-setups
@@ -116,7 +112,6 @@ site:
       title: Comparisons
       path: comparisons
       description: ""
-      icon: "9"
       children:
         - type: space
           key: space-comparisons
