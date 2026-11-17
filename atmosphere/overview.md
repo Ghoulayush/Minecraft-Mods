@@ -1,4 +1,4 @@
-# Atmosphere
+# Overview
 
 Atmospheric mods focus on environmental immersion, weather overhauls, sky rendering, and ambient particle effects that make Minecraft's world feel dynamic, living, and cohesive.
 
