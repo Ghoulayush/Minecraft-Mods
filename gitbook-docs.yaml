@@ -1,5 +1,4 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-version: 1
 site:
   title: Minecraft Setup Guide
   structure:
@@ -16,7 +15,6 @@ site:
           default: true
           content:
             directory: ./getting-started
-
     - type: section
       key: section-performance
       title: Performance
@@ -29,7 +27,6 @@ site:
           default: true
           content:
             directory: ./performance
-
     - type: section
       key: section-atmosphere
       title: Atmosphere
@@ -42,7 +39,6 @@ site:
           default: true
           content:
             directory: ./atmosphere
-
     - type: section
       key: section-visuals
       title: Visuals
@@ -55,7 +51,6 @@ site:
           default: true
           content:
             directory: ./visuals
-
     - type: section
       key: section-pvp
       title: PvP
@@ -68,7 +63,6 @@ site:
           default: true
           content:
             directory: ./pvp
-
     - type: section
       key: section-resource-packs
       title: Resource Packs
@@ -81,7 +75,6 @@ site:
           default: true
           content:
             directory: ./resource-packs
-
     - type: section
       key: section-shaders
       title: Shaders
@@ -94,7 +87,6 @@ site:
           default: true
           content:
             directory: ./shaders
-
     - type: section
       key: section-setups
       title: Setups
@@ -107,7 +99,6 @@ site:
           default: true
           content:
             directory: ./setups
-
     - type: section
       key: section-comparisons
       title: Comparisons
@@ -120,7 +111,6 @@ site:
           default: true
           content:
             directory: ./comparisons
-
     - type: section
       key: section-about
       title: About
