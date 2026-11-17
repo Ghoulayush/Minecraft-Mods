@@ -32,11 +32,11 @@ Download : ![Modrinth](https://modrinth.com/favicon.ico) [Particular Reforged](h
 
 ![](subtle-effects-slime-trail.jpg)
 
-![](.gitbook/assets/subtle-effects-waterfall-mist.jpg)
+![](subtle-effects-waterfall-mist.jpg)
 
-![](.gitbook/assets/subtle-effects-splash-crowns.jpg)
+![](subtle-effects-splash-crowns.jpg)
 
-![](.gitbook/assets/subtle-effects-smoke-columns.jpg)
+![](subtle-effects-smoke-columns.jpg)
 
 > NOTE The above pictures are from Modrinth showcasing ambient particle additions from Subtle Effects.
 
