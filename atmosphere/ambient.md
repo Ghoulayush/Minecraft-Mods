@@ -1,4 +1,4 @@
-# AMBIENT MODS
+# MODS THAT AFFECT AMBIENT
 
 > NOTE
 > Ambient mods enhance the environmental mood, horizon, sky, and depth of the Minecraft world without overhauling core mechanics.
@@ -43,7 +43,7 @@ Download : ![Modrinth](https://modrinth.com/favicon.ico) [Fog](https://modrinth.
 > NOTE
 > The above pictures are from Modrinth showcasing biome-specific skies, fog, and environmental tints.
 
-Tag : `[AI Generated Code]` *(Declared on Modrinth: Contains AI-assisted / generated code for development, with all visual assets and concepts created manually)*
+Tag : `[AI Generated Code]` _(Declared on Modrinth: Contains AI-assisted / generated code for development, with all visual assets and concepts created manually)_
 
 Download : ![Modrinth](https://modrinth.com/favicon.ico) [Atmospherics](https://modrinth.com/mod/atmospherics)
 
