@@ -7,7 +7,6 @@ site:
       title: Getting Started
       path: getting-started
       description: ""
-      icon: "1"
       default: true
       children:
         - type: space
@@ -22,7 +21,6 @@ site:
       title: Performance
       path: performance
       description: ""
-      icon: "2"
       children:
         - type: space
           key: space-performance
