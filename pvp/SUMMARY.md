@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Overview](overview.md)
-* [Combat](README.md)
+* [Combat](combat.md)
 * [HUD](hud.md)
 * [Visibility](visibility.md)
