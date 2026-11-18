@@ -38,8 +38,6 @@ Download : ![Modrinth](https://modrinth.com/favicon.ico) [Fog](https://modrinth.
 
 ![](atmospherics-nether.jpg)
 
-![](atmospherics-lush-caves.jpg)
-
 > NOTE
 > The above pictures are from Modrinth showcasing biome-specific skies, fog, and environmental tints.
 
